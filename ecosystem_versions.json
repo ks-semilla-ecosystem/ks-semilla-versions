@@ -1,21 +1,66 @@
 {
-    "components": {
-        "ks-semilla": {
-            "stable": {
-                "version": "1.1.0"
-            }
-        },
-        "nt-cookie-consent": {
-            "stable": {
-                "version": "1.0.0",
-                "released": "2026-09-02"
-            }
-        },
-        "nt-contact-form": {
-            "stable": {
-                "version": "1.0.0",
-                "released": "2026-09-02"
-            }
-        }
+  "components": {
+    "ks-semilla": {
+      "stable": {
+        "version": "1.1.0"
+      }
+    },
+    "nt-cookie-consent": {
+      "stable": {
+        "version": "1.0.0",
+        "released": "2026-09-02"
+      }
+    },
+    "nt-contact-form": {
+      "stable": {
+        "version": "1.0.0",
+        "released": "2026-09-02"
+      }
+    },
+    "nt-access-watch-guard": {
+      "stable": {
+        "version": "1.0.0"
+      }
+    },
+    "nt-auth": {
+      "stable": {
+        "version": "1.0.0"
+      }
+    },
+    "nt-bitacora": {
+      "stable": {
+        "version": "1.0.0"
+      }
+    },
+    "nt-multi-level-menu": {
+      "stable": {
+        "version": "1.0.0"
+      }
+    },
+    "nt-numerology": {
+      "stable": {
+        "version": "1.0.0"
+      }
+    },
+    "nt-pulse": {
+      "stable": {
+        "version": "1.0.0"
+      }
+    },
+    "nt-pulse-pro": {
+      "stable": {
+        "version": "1.0.0"
+      }
+    },
+    "nt-slider-carousel": {
+      "stable": {
+        "version": "1.0.0"
+      }
+    },
+    "nt-subscribe-form": {
+      "stable": {
+        "version": "1.0.0"
+      }
     }
+  }
 }
