@@ -2,64 +2,74 @@
   "components": {
     "ks-semilla": {
       "stable": {
-        "version": "1.1.0"
+        "version": "1.1.0",
+        "released": "2026-09-04"
       }
     },
     "nt-cookie-consent": {
       "stable": {
-        "version": "1.0.0",
-        "released": "2026-09-02"
+        "version": "1.1.0",
+        "released": "2026-09-04"
       }
     },
     "nt-contact-form": {
       "stable": {
-        "version": "1.0.0",
-        "released": "2026-09-02"
+        "version": "1.1.1",
+        "released": "2026-09-04"
       }
     },
     "nt-access-watch-guard": {
       "stable": {
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "released": "2026-09-04"
       }
     },
     "nt-auth": {
       "stable": {
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "released": "2026-09-04"
       }
     },
     "nt-bitacora": {
       "stable": {
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "released": "2026-09-04"
       }
     },
     "nt-multi-level-menu": {
       "stable": {
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "released": "2026-09-04"
       }
     },
     "nt-numerology": {
       "stable": {
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "released": "2026-09-04"
       }
     },
     "nt-pulse": {
       "stable": {
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "released": "2026-09-04"
       }
     },
     "nt-pulse-pro": {
       "stable": {
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "released": "2026-09-04"
       }
     },
     "nt-slider-carousel": {
       "stable": {
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "released": "2026-09-04"
       }
     },
     "nt-subscribe-form": {
       "stable": {
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "released": "2026-09-04"
       }
     }
   }
