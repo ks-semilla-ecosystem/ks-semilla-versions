@@ -71,6 +71,12 @@
         "version": "1.0.1",
         "released": "2026-09-09"
       }
+    },
+    "nt-mega-navigation": {
+      "stable": {
+        "version": "1.0.0",
+        "released": "2026-11-25"
+      }
     }
   }
 }
